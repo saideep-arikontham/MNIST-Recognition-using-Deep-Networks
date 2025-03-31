@@ -144,6 +144,9 @@ Key press functionality of OpenCV gives the luxary of using either digit detecti
 
 Small live demonstration is included in **[Project5_Report.pdf](https://github.com/saideep-arikontham/MNIST-Recognition-using-Deep-Networks/blob/main/Project5_Report.pdf)**
 
+Access the video directly here: https://drive.google.com/file/d/1chQ-1dJ1XscJLVVgansy_SQ3sqYKW-eV/view?usp=drive_link
+
+
 
 
 ---
