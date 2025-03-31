@@ -147,12 +147,14 @@ Small live demonstration is included in **[Project5_Report.pdf](https://github.c
 Access the video directly here: https://drive.google.com/file/d/1chQ-1dJ1XscJLVVgansy_SQ3sqYKW-eV/view?usp=drive_link
 
 
-
-
 ---
 
 ## Highlights
 - Function written in files like mnist_network, etc., are utilized in other python files to increase reusability.
+
+- Below is the link to hand written greek letters used for testing:
+
+https://drive.google.com/file/d/1P2hp5bTPXqs2GR31K2RVtnG6xTIG2Zvy/view?usp=drive_link
 
 ---
 
